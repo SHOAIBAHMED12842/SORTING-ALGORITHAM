@@ -1,0 +1,26 @@
+C:\Users\hp\source\repos\cocktailsort\cocktailsort\bin\Debug\cocktailsort.exe.config
+C:\Users\hp\source\repos\cocktailsort\cocktailsort\bin\Debug\cocktailsort.exe
+C:\Users\hp\source\repos\cocktailsort\cocktailsort\bin\Debug\cocktailsort.pdb
+C:\Users\hp\source\repos\cocktailsort\cocktailsort\obj\Debug\cocktailsort.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\cocktailsort\cocktailsort\obj\Debug\cocktailsort.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\cocktailsort\cocktailsort\obj\Debug\cocktailsort.exe
+C:\Users\hp\source\repos\cocktailsort\cocktailsort\obj\Debug\cocktailsort.pdb
+E:\cocktailsort\cocktailsort\bin\Debug\cocktailsort.exe.config
+E:\cocktailsort\cocktailsort\obj\Debug\cocktailsort.exe
+E:\cocktailsort\cocktailsort\obj\Debug\cocktailsort.pdb
+E:\cocktailsort\cocktailsort\bin\Debug\cocktailsort.exe
+E:\cocktailsort\cocktailsort\bin\Debug\cocktailsort.pdb
+E:\cocktailsort\cocktailsort\obj\Debug\cocktailsort.csprojResolveAssemblyReference.cache
+Z:\cocktailsort\cocktailsort\bin\Debug\cocktailsort.exe.config
+Z:\cocktailsort\cocktailsort\obj\Debug\cocktailsort.exe
+Z:\cocktailsort\cocktailsort\obj\Debug\cocktailsort.pdb
+Z:\cocktailsort\cocktailsort\bin\Debug\cocktailsort.exe
+Z:\cocktailsort\cocktailsort\bin\Debug\cocktailsort.pdb
+Z:\cocktailsort\cocktailsort\obj\Debug\cocktailsort.csprojResolveAssemblyReference.cache
+F:\COCKTAIL SORT\cocktailsort\bin\Debug\cocktailsort.exe.config
+F:\COCKTAIL SORT\cocktailsort\bin\Debug\cocktailsort.exe
+F:\COCKTAIL SORT\cocktailsort\bin\Debug\cocktailsort.pdb
+F:\COCKTAIL SORT\cocktailsort\obj\Debug\cocktailsort.csprojAssemblyReference.cache
+F:\COCKTAIL SORT\cocktailsort\obj\Debug\cocktailsort.csproj.CoreCompileInputs.cache
+F:\COCKTAIL SORT\cocktailsort\obj\Debug\cocktailsort.exe
+F:\COCKTAIL SORT\cocktailsort\obj\Debug\cocktailsort.pdb

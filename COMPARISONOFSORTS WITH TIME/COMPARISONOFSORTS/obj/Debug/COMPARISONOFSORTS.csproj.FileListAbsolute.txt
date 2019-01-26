@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2013\Projects\COMPARISONOFSORTS\COMPARISONOFSORTS\bin\Debug\COMPARISONOFSORTS.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\COMPARISONOFSORTS\COMPARISONOFSORTS\bin\Debug\COMPARISONOFSORTS.exe
+c:\users\hp\documents\visual studio 2013\Projects\COMPARISONOFSORTS\COMPARISONOFSORTS\bin\Debug\COMPARISONOFSORTS.pdb
+c:\users\hp\documents\visual studio 2013\Projects\COMPARISONOFSORTS\COMPARISONOFSORTS\obj\Debug\COMPARISONOFSORTS.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\COMPARISONOFSORTS\COMPARISONOFSORTS\obj\Debug\COMPARISONOFSORTS.exe
+c:\users\hp\documents\visual studio 2013\Projects\COMPARISONOFSORTS\COMPARISONOFSORTS\obj\Debug\COMPARISONOFSORTS.pdb
